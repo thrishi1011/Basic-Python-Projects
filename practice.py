@@ -107,4 +107,3 @@ with open(file_plath, 'w', newline='') as file:
     print(f'csv file created at {file_plath}')
 
 # ---------------
-
